@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\劉家誠\desktop\程式語言\hw3-2\106360221_劉家誠\5-34\source\main.c(16): warning C4142: 'power': 良性的類型重複定義
+  c:\users\劉家誠\desktop\程式語言\hw3-2\106360221_劉家誠\5-34\source\main.c(4): note: 請參閱 'power' 的宣告
+  5-34.vcxproj -> C:\Users\劉家誠\Desktop\程式語言\HW3-2\106360221_劉家誠\5-34\HW\5-34\5-34\..\..\..\temp\debug\5-34.exe
+  5-34.vcxproj -> ..\..\..\temp\debug\5-34.pdb (Partial PDB)
